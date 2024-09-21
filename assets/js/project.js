@@ -17,7 +17,7 @@ const projects = [
   },
   {
     title: "A.S Electronics",
-    cardImage: "assets/images/project-page/ff.jpg",
+    cardImage: "assets/images/project-page/ff.JPG",
     description: "An E-Commerce Website of Electronic Gadgets.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "A.S Electronics",
